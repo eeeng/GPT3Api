@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/ask/ask.csproj": {}
+    "/home/ahmet/askMe/askMe.csproj": {}
   },
   "projects": {
-    "/home/ahmet/ask/ask.csproj": {
+    "/home/ahmet/askMe/askMe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/ask/ask.csproj",
+        "projectUniqueName": "/home/ahmet/askMe/askMe.csproj",
         "projectName": "ask",
-        "projectPath": "/home/ahmet/ask/ask.csproj",
+        "projectPath": "/home/ahmet/askMe/askMe.csproj",
         "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/ask/obj/",
+        "outputPath": "/home/ahmet/askMe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ahmet/.nuget/NuGet/NuGet.Config"
